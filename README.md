@@ -61,19 +61,6 @@ npm run deploy
 
 ```
 
-## Authors
-
-👤 **PROMISE OKECHUKWU**
-
-- GitHub: [@promzzykoncepts](https://github.com/PromzzyKoncepts)
-- Twitter: [@promzzy](https://twitter.com/prOmzzy)
-- LinkedIn: [promiseokechukwu](https://linkedin.com/in/promiseokechukwu)
-
-👤 **Anas Chabaane**
-
-- GitHub: [@ChaabaneAnas](https://github.com/ChaabaneAnas)
-- Twitter: [@AnasChabaane](https://twitter.com/AnasChabaane)
-- LinkedIn: [Anas Chabaane](https://www.linkedin.com/in/anas-chabaane-a0baa21a2/)
 
 ## 🤝 Contributing
 
